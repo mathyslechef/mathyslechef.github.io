@@ -1,0 +1,47 @@
+h1{
+
+font-size: 30px;
+
+text-align: center;
+
+color: #fdfefe
+
+}
+
+h2{
+
+font-size: 40px;
+
+text-align: center;
+
+color: #125a2a
+
+}
+
+
+p{
+
+font-size: 20px;
+
+text-align: left;
+
+font-family: Helvetica, sans-serif;
+
+}
+
+
+body {
+
+background-color: #f17e65;
+
+}
+
+<style_1>
+        /* Applique Flexbox pour centrer le contenu */
+        .centered-container {
+            display: flex;                 /* Utilise Flexbox */
+            justify-content: center;       /* Centre horizontalement */
+            align-items: center;           /* Centre verticalement (optionnel) */
+            height: 100vh;                 /* Prend toute la hauteur de la fenêtre */
+        }
+</style_1>
